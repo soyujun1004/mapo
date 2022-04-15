@@ -1,0 +1,7 @@
+echo "# soyujun" >> README.md 
+git init 
+git add README.md 
+git commit -m "첫 번째 커밋" 
+git branch -M main 
+git remote add origin https://github.com/soyujun1004/soyujun.git
+ git push
